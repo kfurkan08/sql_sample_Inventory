@@ -1,0 +1,3 @@
+Learn how to set up a Github repository and add SQL files to it in this video
+
+https://www.youtube.com/watch?v=AW_U0q5BtFI
